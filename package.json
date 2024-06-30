@@ -7,7 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",
-    "chromedriver": "^2.43.1",
+    "chromedriver": "^119.0.1",
     "ecstatic": "^2.0.0",
     "http-server": "^0.11.1",
     "jasmine-core": "^2.4.1",
